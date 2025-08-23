@@ -1,4 +1,6 @@
-public class Me {
+package Main.src;
+
+public class MeDetails {
     public static void sayName(){
         System.out.println("Name: Samuel Baseke");
     }
